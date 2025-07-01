@@ -36,6 +36,6 @@ myQueue.items.append(3)
 print(myQueue)  # Output: [1, 2]
 
 
-print(myQueue.isEmpty())
+
 print(myQueue.dequeue())
 print(myQueue.dequeue())## Output: False
